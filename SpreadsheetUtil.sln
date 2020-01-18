@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetUtil", "SpreadsheetUtil.csproj", "{15392B5D-41C3-4114-BCB1-27F56041D72A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15392B5D-41C3-4114-BCB1-27F56041D72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15392B5D-41C3-4114-BCB1-27F56041D72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15392B5D-41C3-4114-BCB1-27F56041D72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15392B5D-41C3-4114-BCB1-27F56041D72A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5249C5FB-5E7E-4697-B36B-7DDC711F2CD9}
+	EndGlobalSection
+EndGlobal
